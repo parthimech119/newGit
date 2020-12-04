@@ -44,7 +44,7 @@ public class Intializer {
 	public static void initalize() throws  IOException{
 		
 		if(isReport){
-			ReportOptimizer.optimizeReport();
+		ReportOptimizer.optimizeReport();
 		reports=new ExtentReports("C:\\selenium workspace\\DDDTest\\report\\report.html");
 		isReport=false;
 		}

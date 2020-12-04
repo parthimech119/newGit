@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="40912" started-at="2020-11-10T09:56:01Z" finished-at="2020-11-10T09:56:42Z">
+  <suite name="Default suite" duration-ms="34602" started-at="2020-12-04T10:17:23Z" finished-at="2020-12-04T10:17:57Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="40912" started-at="2020-11-10T09:56:01Z" finished-at="2020-11-10T09:56:42Z">
+    <test name="Default test" duration-ms="34602" started-at="2020-12-04T10:17:23Z" finished-at="2020-12-04T10:17:57Z">
       <class name="com.vcentry.onlineshop.testcases.CheckOutPage">
-        <test-method status="PASS" signature="validateCheckout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="validateCheckout" duration-ms="16243" started-at="2020-11-10T15:26:03Z" data-provider="CheckOutPage" finished-at="2020-11-10T15:26:19Z">
+        <test-method status="PASS" signature="validateCheckout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="validateCheckout" duration-ms="12975" started-at="2020-12-04T15:47:24Z" data-provider="CheckOutPage" finished-at="2020-12-04T15:47:37Z">
           <params>
             <param index="0">
               <value>
@@ -58,7 +58,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateCheckout -->
-        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="teardown" is-config="true" duration-ms="713" started-at="2020-11-10T15:26:19Z" finished-at="2020-11-10T15:26:19Z">
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="teardown" is-config="true" duration-ms="673" started-at="2020-12-04T15:47:37Z" finished-at="2020-12-04T15:47:38Z">
           <params>
             <param index="0">
               <value>
@@ -69,7 +69,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="validateCheckout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="validateCheckout" duration-ms="7482" started-at="2020-11-10T15:26:19Z" data-provider="CheckOutPage" finished-at="2020-11-10T15:26:27Z">
+        <test-method status="PASS" signature="validateCheckout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="validateCheckout" duration-ms="6023" started-at="2020-12-04T15:47:38Z" data-provider="CheckOutPage" finished-at="2020-12-04T15:47:44Z">
           <params>
             <param index="0">
               <value>
@@ -120,7 +120,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateCheckout -->
-        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="teardown" is-config="true" duration-ms="379" started-at="2020-11-10T15:26:27Z" finished-at="2020-11-10T15:26:27Z">
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="teardown" is-config="true" duration-ms="390" started-at="2020-12-04T15:47:44Z" finished-at="2020-12-04T15:47:44Z">
           <params>
             <param index="0">
               <value>
@@ -131,7 +131,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="validateCheckout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="validateCheckout" duration-ms="6870" started-at="2020-11-10T15:26:27Z" data-provider="CheckOutPage" finished-at="2020-11-10T15:26:34Z">
+        <test-method status="PASS" signature="validateCheckout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="validateCheckout" duration-ms="6414" started-at="2020-12-04T15:47:44Z" data-provider="CheckOutPage" finished-at="2020-12-04T15:47:51Z">
           <params>
             <param index="0">
               <value>
@@ -182,7 +182,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateCheckout -->
-        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="teardown" is-config="true" duration-ms="442" started-at="2020-11-10T15:26:34Z" finished-at="2020-11-10T15:26:35Z">
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="teardown" is-config="true" duration-ms="404" started-at="2020-12-04T15:47:51Z" finished-at="2020-12-04T15:47:51Z">
           <params>
             <param index="0">
               <value>
@@ -193,7 +193,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="validateCheckout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="validateCheckout" duration-ms="6608" started-at="2020-11-10T15:26:35Z" data-provider="CheckOutPage" finished-at="2020-11-10T15:26:41Z">
+        <test-method status="PASS" signature="validateCheckout(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="validateCheckout" duration-ms="5932" started-at="2020-12-04T15:47:51Z" data-provider="CheckOutPage" finished-at="2020-12-04T15:47:57Z">
           <params>
             <param index="0">
               <value>
@@ -244,7 +244,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateCheckout -->
-        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="teardown" is-config="true" duration-ms="501" started-at="2020-11-10T15:26:41Z" finished-at="2020-11-10T15:26:42Z">
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.onlineshop.testcases.CheckOutPage@42e26948]" name="teardown" is-config="true" duration-ms="389" started-at="2020-12-04T15:47:57Z" finished-at="2020-12-04T15:47:57Z">
           <params>
             <param index="0">
               <value>

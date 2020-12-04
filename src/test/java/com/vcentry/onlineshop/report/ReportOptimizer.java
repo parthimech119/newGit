@@ -18,7 +18,7 @@ public class ReportOptimizer {
 		String name=sf.format(date);
 
 		String src="C:\\selenium workspace\\DDDTest\\screenshot";
-				String dst="C:\\selenium workspace\\DDDTest\\oldReport";
+				String dst="C:\\selenium workspace\\DDDTest\\oldReport\\"+name;
 				
 				FileUtils.copyDirectory(new File(src),new File(dst));
 				FileUtils.cleanDirectory(new File(src));

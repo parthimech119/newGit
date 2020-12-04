@@ -100,7 +100,7 @@ public class InputReader {
 		public static Object[][] collectAllMultiData(String TestCaseName) throws FileNotFoundException, IOException
 		{
 			System.err.println("i am entered run for data");
-			XSSFWorkbook workbook=new XSSFWorkbook(new FileInputStream(new File ("C:\\selenium workspace\\DDDTest\\src\\test\\resources\\com\\vcentry\\onlineshop\\input\\multiData.xlsx")));
+			XSSFWorkbook workbook=new XSSFWorkbook(new FileInputStream(new File (System.getProperty("user.dir")+File.separator+"src"+File.separator+"test"+File.separator+"resources"+File.separator+"com"+File.separator+"vcentry"+File.separator+"onlineshop"+File.separator+"input"+File.separator+"multiData.xlsx")));
 			XSSFSheet TcSheet=workbook.getSheet(TestCaseName);
 			int TcRow=TcSheet.getLastRowNum();
 			int TcCol=TcSheet.getRow(1).getLastCellNum();

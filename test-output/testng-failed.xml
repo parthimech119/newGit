@@ -5,7 +5,7 @@
     <classes>
       <class name="com.vcentry.onlineshop.testcases.CheckOutPage">
         <methods>
-          <include name="validateCheckout" invocation-numbers="1 2 3"/>
+          <include name="validateCheckout" invocation-numbers="0"/>
           <include name="teardown"/>
         </methods>
       </class> <!-- com.vcentry.onlineshop.testcases.CheckOutPage -->
